@@ -9,5 +9,7 @@ For any questions or feedback, feel free to reach out via morozovvsevolod15@gmai
 
 ```
 
+pip install -r requirements.txt
+    
 
 ```
